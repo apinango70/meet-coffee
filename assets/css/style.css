@@ -116,6 +116,10 @@ footer {
   width: 30%;
 }
 
+.evento a {
+  text-decoration: none;
+}
+
 .evento img {
   width: 75%;
 }
@@ -148,3 +152,34 @@ nav ul li {
 footer i {
   margin: 0 0.25em 0.5em 0.25em;
 }
+
+.titulo_section {
+  width: 47%;
+  margin: auto;
+  padding-top: 10rem;
+}
+
+.titulo_section h3 {
+  text-align: left;
+  font-weight: 700;
+}
+
+.img_section img {
+  width: 47%;
+  margin-bottom: 40px;
+}
+
+.texto_section {
+  text-align: justify;
+  width: 47%;
+  margin: auto;
+}
+
+.texto_section h4 {
+  font-weight: 700;
+  margin: 20px 0;
+}
+
+
+
+
